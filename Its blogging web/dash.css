@@ -1,0 +1,42 @@
+.navbar-brand{
+    /* background-color: #F6B400; */
+    margin-left: 40%;
+}
+
+body{
+    /* backgroundbackground: rgb(63,94,251); */
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(70,126,252,1) 100%);
+}
+
+.heading{
+    color: white;
+    text-align: center;
+}
+
+
+.inputBox{
+    color: red;
+border-color: #F6B400;
+color: #F6B400;
+/* box-shadow: 0px 4px 27px -4px #F6B400; */
+}
+
+
+.Log{
+    color: white;
+    background-color: black;
+    font-size: 15px;
+    border: none;
+    /* padding: 10px 10px 10px 5px ; */
+    margin-left: 700%;
+}
+
+.raza{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,71,121,1) 100%, rgba(0,212,255,1) 100%);}
+
+    .navbar-brand{
+
+        color: white;
+        /* color: aliceblue; */
+    }
